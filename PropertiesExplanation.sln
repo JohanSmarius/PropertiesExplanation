@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PropertiesExplanation", "PropertiesExplanation\PropertiesExplanation.csproj", "{4C82B9EF-B464-4003-A887-6BD87DD55F9B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4C82B9EF-B464-4003-A887-6BD87DD55F9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C82B9EF-B464-4003-A887-6BD87DD55F9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C82B9EF-B464-4003-A887-6BD87DD55F9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C82B9EF-B464-4003-A887-6BD87DD55F9B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
